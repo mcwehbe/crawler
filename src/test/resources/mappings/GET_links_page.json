@@ -1,0 +1,9 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/links"
+  },
+  "response": {
+    "bodyFileName": "links.html"
+  }
+}

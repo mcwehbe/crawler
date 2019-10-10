@@ -1,0 +1,9 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/simple"
+  },
+  "response": {
+    "bodyFileName": "simple.html"
+  }
+}

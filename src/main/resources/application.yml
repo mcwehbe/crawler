@@ -1,0 +1,11 @@
+spring:
+  cache:
+    cache-names: getDistinctLinks
+    caffeine:
+      spec: maximumSize=500, expireAfterAccess=600s
+
+connect.timout: 1000
+
+thread:
+  utilizationCPU: 0.5
+  computeTimeRatio: 80
